@@ -1,0 +1,14 @@
+{
+  "type": "postgres",
+  "host": "will-db",
+  "port": 5452,
+  "username": "postgres",
+  "password": "Wwwqqq111_",
+  "database": "will",
+  "entities": ["src/**/*.entity{.ts,.js}"],
+  "seeds": ["seeds/**/*.seed.ts"],
+  "migrations": ["migration/*.ts"],
+  "cli": {
+      "migrationsDir": "migration"
+  }
+}

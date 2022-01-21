@@ -1,0 +1,1 @@
+export { AdminPaginationInterceptor } from './admin-pagination.interceptor'
